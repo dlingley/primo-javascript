@@ -1,6 +1,8 @@
-# Ex Libris Primo Javascript Files
+# Ex Libris Primo JavaScript Files
 
-This is a collection of miscellaneous javascript files to enhance the Primo 4 user experience.
+This is a collection of miscellaneous JavaScript files to enhance the Primo 4 user experience.
+
+The scripts are written in CoffeeScript in the [coffeescript](coffeescript) directory and automatically compiled to JavaScript in the [javascript](javascript) directory.
 
 ## send_to_links
 
